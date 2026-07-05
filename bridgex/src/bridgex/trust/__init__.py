@@ -1,0 +1,1 @@
+"""Trust package - Verification, audit, and governance."""
